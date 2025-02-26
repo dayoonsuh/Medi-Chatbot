@@ -1,7 +1,9 @@
 # Ask Pharamcist - Medi Q&A Chatbot
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/b8737d36-ea8d-49d2-96a5-82492ae3430b)
 
-![alt text](image-1.png)
+
+![image](https://github.com/user-attachments/assets/4e7e3a1d-f02a-4e7e-bdd0-87fbaa865409)
+
 ---------------------------------------
 
 **Ask Pharmacist - Medi Q&A Chatbot** is an conversational app that provides users with personalized advice on medications. It helps users determine which medicine to take for their symptoms and how to properly use it. The app utilizes Retrieval Augmented Generation (RAG) to retrieve relevant information from a vast corpus of medical data and generate contextually accurate responses.
